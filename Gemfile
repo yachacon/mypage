@@ -1,0 +1,1 @@
+source 'https://dev-community.repo7.sebank.se/artifactory/rubygems-remote/gems/'
